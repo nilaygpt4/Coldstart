@@ -1,0 +1,41 @@
+Text,Class
+agent: so were ready to ready to make the payment mister [P] christopher [[sys.person]][/P] 12 minutes the name on the card,4
+agent: uh just yes its gonna give you the sign up for autopay after number no no [P] bridgeville [[sys.gpe]][/P] remove number on the rest of your week and i made you cannot make any type of changes,4
+agent: else that i can help you with today sir thank thank you [P] christopher physician [[sys.person]][/P] cricket my name is ronald you have a great day okay,4
+agent: let me go ahead and get everything set up set up again i wouldnt be regarding account numbers customer: [P] 442333500004474004 [[sys.cardinal]][/P],4
+agent: got it will be like would be the card number customer: [P] 4423233535000474004 [[sys.cardinal]][/P] for,4
+agent: okay so just remember your basically it doesnt give you doesnt give you more or less of [P] 7 [[sys.cardinal]][/P] days okay its exact exact 7 days and then going to give you the option to make your second payment can payments so just to make sure you make a payment on it and all that kind of time if you do not make a payment on the 23 enter your bill cycle on your account is gonna reached restart and then the system will be asking you for you for the full amount to restore your services,4
+agent: zip code number customer: [P] 71241 [[sys.cardinal]][/P],4
+agent: sure i can definitely help you with help you with that is that information on your account may i have your phone number please customer: 18 or 9 or [P] 978550 [[sys.cardinal]][/P],4
+agent: okay well the expiration date customer: [P] 7/7/20 [[sys.date]][/P] been 24,4
+agent: [P] 0004 [[sys.cardinal]][/P],4
+agent: sure i can definitely help you with help you with that is that information on your account may i have your phone number please customer: [P] 18 [[sys.cardinal]][/P] or 9 or 978550,4
+agent: on file until the [P] 23 [[sys.cardinal]][/P] to make your second payment is that okay is that okay,4
+agent: okay so just remember your basically it doesnt give you doesnt give you more or less of 7 days okay its exact exact [P] 7 [[sys.cardinal]][/P] days and then going to give you the option to make your second payment can payments so just to make sure you make a payment on it and all that kind of time if you do not make a payment on the 23 enter your bill cycle on your account is gonna reached restart and then the system will be asking you for you for the full amount to restore your services,4
+agent: so were ready to ready to make the payment mister christopher [P] 12 [[sys.cardinal]][/P] minutes the name on the card,4
+agent: okay so just remember your basically it doesnt give you doesnt give you more or less of [P] 7 days [[sys.duration]][/P] okay its exact exact 7 days and then going to give you the option to make your second payment can payments so just to make sure you make a payment on it and all that kind of time if you do not make a payment on the 23 enter your bill cycle on your account is gonna reached restart and then the system will be asking you for you for the full amount to restore your services,4
+agent: sure i can definitely help you with help you with that is that information on your account may i have your phone number please customer: 18 or [P] 9 [[sys.cardinal]][/P] or 978550,4
+agent: so like i know you have on the [P] 233 [[sys.cardinal]][/P] to make a second payment in this gonna be off of $53 sir so just remember remember that today we set up for a bridge pay every process the payment is a payment of $15 is there anything else thing else that i can help you with today,4
+agent: no im asking you the last 4 digits digits a [P] 0004 [[sys.cardinal]][/P],4
+agent: so were ready to ready to make the payment mister christopher [P] 12 minutes [[sys.duration]][/P] the name on the card,4
+agent: so like i know you have on the 233 to make a second payment in this gonna be off of $53 sir so just remember remember that today we set up for a bridge pay every process the payment is a payment of [P] $15 [[sys.money]][/P] is there anything else thing else that i can help you with today,4
+agent: hmm i think i got a wrong number or the credit the credit for the card number so can you give it to me one more time please time please customer: [P] 44233500047460004 [[sys.cardinal]][/P] for,4
+agent: okay so just remember your basically it doesnt give you doesnt give you more or less of 7 days okay its exact exact [P] 7 days [[sys.duration]][/P] and then going to give you the option to make your second payment can payments so just to make sure you make a payment on it and all that kind of time if you do not make a payment on the 23 enter your bill cycle on your account is gonna reached restart and then the system will be asking you for you for the full amount to restore your services,4
+agent: thank you sir well the expiration version date on the card customer: [P] 0 [[sys.cardinal]][/P] row sim 24,4
+agent: okay so just remember your basically it doesnt give you doesnt give you more or less of 7 days okay its exact exact 7 days and then going to give you the option to make your second payment can payments so just to make sure you make a payment on it and all that kind of time if you do not make a payment on the [P] 23 [[sys.cardinal]][/P] enter your bill cycle on your account is gonna reached restart and then the system will be asking you for you for the full amount to restore your services,4
+agent: zip zip code number customer: [P] 7 [[sys.cardinal]][/P] in 12 for more,4
+agent: okay great so im in your account sir to set up the best thing you would just have to make a payment right now right now of [P] $15 [[sys.money]][/P] and you will have,4
+agent: no im asking you the last [P] 4 [[sys.cardinal]][/P] digits digits a 0004,4
+agent: okay well the expiration date customer: 7/7/20 been [P] 24 [[sys.cardinal]][/P],4
+agent: [P] 304 [[sys.cardinal]][/P],4
+agent: zip zip code number customer: 7 in [P] 12 [[sys.cardinal]][/P] for more,4
+agent: so like i know you have on the 233 to make a second payment in this gonna be off of [P] $53 [[sys.money]][/P] sir so just remember remember that today we set up for a bridge pay every process the payment is a payment of $15 is there anything else thing else that i can help you with today,4
+agent: for for the [P] 46 [[sys.cardinal]][/P],4
+agent: thank you sir well the expiration version date on the card customer: 0 row sim [P] 24 [[sys.cardinal]][/P],4
+agent: were gonna were gonna go get nation my name is [P] brian [[sys.person]][/P] amount of amount of that is because address of aah can i help you today sir,1
+agent: else that i can help you with today sir thank thank you christopher physician cricket my name is [P] ronald [[sys.person]][/P] you have a great day okay,1
+agent: security code customer: [P] 446 [[sys.cardinal]][/P],1
+agent: got it security code customer: [P] 4446 [[sys.cardinal]][/P],1
+agent: got it will be like would be the card number customer: [P] 4423233535000474004 [[sys.cardinal]][/P],2
+agent: okay well the expiration date customer: [P] 7/7/2024 [[sys.date]][/P],3
+agent: thank you sir well the expiration version date on the card customer: [P] 7/7/2024 [[sys.date]][/P],3
